@@ -1,2 +1,4 @@
 var number = 5
-number ++
+function add5() {
+  number /= 3
+}
